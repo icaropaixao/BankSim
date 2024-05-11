@@ -1,7 +1,7 @@
 # BankSim
 
 ## Descrição:
-O projeto "Simulador de Banco em Java" é uma aplicação console que simula as operações básicas de um banco entre três contas fictícias. Ele oferece as funcionalidades essenciais de adicionar fundos, sacar dinheiro e transferir valores entre as contas.
+O projeto  é uma aplicação console que simula as operações básicas de um banco entre três contas fictícias. Ele oferece as funcionalidades essenciais de adicionar fundos, sacar dinheiro e transferir valores entre as contas.
 
 Funcionalidades Principais:
 
